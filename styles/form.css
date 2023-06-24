@@ -1,0 +1,21 @@
+#formedit{
+    background-color: #e1a4c8;
+    width: 550px;
+    padding-left: 3%;
+    border-radius: 12px 12px 12px 12px;
+}
+
+#formadd{
+    background-color: #e1a4c8;
+    width: 550px;
+    padding-left: 4%;
+    border-radius: 12px 12px 12px 12px;
+}
+
+.show{
+    display: inline, !important;
+}
+
+.hide{
+    display: none;
+}
